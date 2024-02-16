@@ -1,0 +1,87 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url(./img/pngtree-full-wall-mathematical-formula-symbol-png-image_6333508.jpg);
+    background-repeat: repeat;
+    background-color: rgb(220, 156, 7);
+}
+#parag{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+    background:radial-gradient(yellow 50%,white 60%);
+    width: 200px;
+    border: 2px solid rgb(17, 0, 255);
+    border-radius: 5%;
+    
+}
+.inpute{
+  width: 12rem;
+  height: 2.3rem;
+
+}
+
+.somar{
+    font-size: 19px;
+    height: 31px;
+    background-color: red;
+    color: #fdfdfd;
+    transition:all 500ms;
+}
+.somar:hover{
+ background-color: rgba(33, 249, 0, 0.648);  
+ transform:scale(1.2);
+ border-radius: 10%;
+
+}
+.subtrair{
+    font-size: 19px;
+    height: 31px;
+    background-color: purple;
+    
+    transition:all 500ms;
+}
+.subtrair:hover{
+    background-color: rgba(249, 178, 0, 0.648);  
+    transform:scale(1.2);
+    border-radius: 10%;
+}
+.dividir{
+    font-size: 19px;
+    height: 31px;
+    background-color: yellow;
+    
+    transition:all 500ms;
+}
+.dividir:hover{
+    background-color: rgba(51, 17, 152, 0.648);  
+    transform:scale(1.2);
+    border-radius: 10%;
+}
+.multiplicar{
+    font-size: 19px;
+    height: 31px;
+    background-color: blue;
+    
+    transition:all 500ms;
+}
+.multiplicar:hover{
+    background-color: rgba(148, 53, 9, 0.648);  
+    transform:scale(1.2);
+    border-radius: 10%;
+}
+
+
+ 
+.divisao{
+    width: 30%;
+    margin: -2.6rem;
+    margin-left: 800px;
+  
+   border-radius: 20px;
+    background-color: green ;
+    text-align: center;
+  
+    font-size: 35px;
+}
